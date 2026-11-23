@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "firmware_url": "https://example.com/firmware.bin"
+  "version": "1.0.1",
+  "firmware_url": "https://github.com/Naili-lin/televic-esp32c6-ota-test/releases/download/v1.0.1/TelevicNameplate_ESP32_C6.bin"
 }
